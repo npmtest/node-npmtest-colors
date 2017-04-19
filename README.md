@@ -1,6 +1,6 @@
 # npmtest-colors
 
-#### test coverage for  [colors (v1.1.2)](https://github.com/Marak/colors.js)  [![npm package](https://img.shields.io/npm/v/npmtest-colors.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-colors) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-colors.svg)](https://travis-ci.org/npmtest/node-npmtest-colors)
+#### basic test coverage for  [colors (v1.1.2)](https://github.com/Marak/colors.js)  [![npm package](https://img.shields.io/npm/v/npmtest-colors.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-colors) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-colors.svg)](https://travis-ci.org/npmtest/node-npmtest-colors)
 
 #### get colors in your node.js console
 
